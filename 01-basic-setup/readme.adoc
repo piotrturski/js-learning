@@ -13,3 +13,7 @@ or
 cd <project dir>
 nvm use ; code
 ```
+
+### tgz
+
+- tarball without node_modules: `npm pack`
