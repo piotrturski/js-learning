@@ -1,7 +1,8 @@
 - rerun when changes are saved: `npm run dev`
 - `npm test`
-- run tests in watch mode `npx jest --watchAll` or `npm test -- --watchAll`
-- `npx eslint .`
+- run tests in watch mode `npx jest --watchAll` or `npm test -- --watchAll` or `npx jest --notify --watchAll`
+- `npx eslint .
+- `npx jest --coverage`
 
 ### VS code + nvm
 ```

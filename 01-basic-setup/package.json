@@ -12,5 +12,9 @@
     "eslint": "^5.8.0",
     "jest": "^23.6.0",
     "nodemon": "^1.18.5"
-  }
+  },
+  "jest": {
+    "coverageDirectory":"build/coverage"
+  },
+  "eslintIgnore": ["/build/**"]
 }
