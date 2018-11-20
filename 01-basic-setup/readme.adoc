@@ -19,3 +19,13 @@ nvm use ; code
 ### tgz
 
 - tarball without node_modules: `npm pack`
+
+## tutorials
+
+- full backend (login, validation, mongoose): https://medium.com/@_aerdeljac/creating-a-rest-api-backend-using-express-js-7710d3310b79
+- flowtype integration: https://jaketrent.com/post/flowtype-nodejs-backend/
+- logging, debuging, too long pauses, callback hell: https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
+
+### testing API
+rest.js (client, no assertions, no uniformed error response handling)
+chai / chai-http, supertest, hippie
