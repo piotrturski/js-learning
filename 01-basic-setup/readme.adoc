@@ -29,3 +29,6 @@ nvm use ; code
 ### testing API
 rest.js (client, no assertions, no uniformed error response handling)
 chai / chai-http, supertest, hippie
+
+### loggers
+comparison of two loggers: https://strongloop.com/strongblog/compare-node-js-logging-winston-bunyan/
