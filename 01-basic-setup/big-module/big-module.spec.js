@@ -9,6 +9,7 @@ test('folder module api exposes public api', () => {
   const request = require('supertest');
 
   const api = request(app)
+                // .expect('Content-Type', /json/)
 
 test('dummy to test port usage', done => {
   api
